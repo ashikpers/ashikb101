@@ -1,0 +1,1 @@
+protractor /Users/vinu/Documents/workspace/protractor/TestSuites/conf

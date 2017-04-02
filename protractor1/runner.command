@@ -1,0 +1,1 @@
+protractor /Users/vinu/Documents/workspace/protractor1/conf1.js
